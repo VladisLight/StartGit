@@ -1,4 +1,4 @@
-package com.example.startgit;
+package com.example.startgitandriod;
 
 import org.junit.Test;
 
